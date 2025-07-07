@@ -1,15 +1,15 @@
-#OpenGL camera controller
+# OpenGL camera controller
 
-##Features
+## Features
 
 - EBO, VBO, VAO implemented
 - Example texture manager and shader classes implemented
 - A basic demo of the camera controller itself, move with WSAD
 
-##Requirements
+## Requirements
 
 Project requires the glut,glew, glm and opengl (3.3 version) libraries in order to run!
 
-##Usage
+## Usage
 
 Run `make` then `./main`
